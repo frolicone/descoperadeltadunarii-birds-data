@@ -1,24 +1,24 @@
-{
-  "version": "1.0.0",
-  "packageUrl": "http://10.0.2.2:3000/birds/package-v1.0.0.zip",
-  "size": 2110719,
-  "checksum": "sha256-68EBB2898E0E25728251DA38B6ABED7BF7211E70896A30A0587AA909913C1085",
-  "minAppVersion": "0.0.1",
-  "releaseDate": "2025-10-10",
-  "changelog": {
-    "en": "Initial test release with 5 common Danube Delta bird species",
-    "ro": "Versiune inițială de test cu 5 specii comune de păsări din Delta Dunării"
-  },
-  "content": {
-    "birds": 5,
-    "images": 15,
-    "languages": ["en", "ro"],
-    "totalSize": "~2.1 MB"
-  },
-  "attribution": {
-    "source": "English Wikipedia + Romanian Wikipedia + Wikimedia Commons",
-    "license": "CC-BY-SA 3.0 + CC-BY-SA 2.5 + CC-BY 2.0",
-    "url": "https://en.wikipedia.org + https://ro.wikipedia.org + https://commons.wikimedia.org",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  {
+    "version": "1.0.0",
+    "packageUrl": "https://frolicone.github.io/descoperadeltadunarii-birds-data/package-v1.0.0.zip",
+    "size": 2110719,
+    "checksum": "sha256-68EBB2898E0E25728251DA38B6ABED7BF7211E70896A30A0587AA909913C1085",
+    "minAppVersion": "0.0.1",
+    "releaseDate": "2025-10-10",
+    "changelog": {
+      "en": "Initial test release with 5 common Danube Delta bird species",
+      "ro": "Versiune inițială de test cu 5 specii comune de păsări din Delta Dunării"
+    },
+    "content": {
+      "birds": 5,
+      "images": 15,
+      "languages": ["en", "ro"],
+      "totalSize": "~2.1 MB"
+    },
+    "attribution": {
+      "source": "English Wikipedia + Romanian Wikipedia + Wikimedia Commons",
+      "license": "CC-BY-SA 3.0 + CC-BY-SA 2.5 + CC-BY 2.0",
+      "url": "https://en.wikipedia.org + https://ro.wikipedia.org + https://commons.wikimedia.org",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    }
   }
-}
