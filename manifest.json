@@ -1,13 +1,13 @@
 {
-  "version": "1.2.0",
-  "packageUrl": "https://frolicone.github.io/descoperadeltadunarii-birds-data/package-v1.2.0.zip",
-  "size": 2125543,
-  "checksum": "sha256-905880032A0CED39394C1ECBB5351C2F3A50FFD95F14346151575CB8E0C6D745",
+  "version": "1.3.0",
+  "packageUrl": "https://frolicone.github.io/descoperadeltadunarii-birds-data/package-v1.3.0.zip",
+  "size": 2125827,
+  "checksum": "sha256-C532C51E319B62EAD18331743D98051F4E3B9CBD0725330316762652E88508A9",
   "minAppVersion": "0.0.1",
   "releaseDate": "2025-10-14",
   "changelog": {
-    "en": "Added rarity indicators (common, uncommon, rare) for all birds",
-    "ro": "Adăugate indicatori de raritate (comună, neobișnuită, rară) pentru toate păsările"
+    "en": "Added dynamic monthly rarity system with seasonal bird status",
+    "ro": "Adăugat un sistem dinamic lunar de raritate cu statusul sezonier al păsărilor"
   },
   "content": {
     "birds": 5,
