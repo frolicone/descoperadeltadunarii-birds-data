@@ -1,19 +1,19 @@
 {
-  "version": "1.3.0",
-  "packageUrl": "https://frolicone.github.io/descoperadeltadunarii-birds-data/package-v1.3.0.zip",
-  "size": 2125827,
-  "checksum": "sha256-C532C51E319B62EAD18331743D98051F4E3B9CBD0725330316762652E88508A9",
+  "version": "1.4.0",
+  "packageUrl": "https://frolicone.github.io/descoperadeltadunarii-birds-data/package-v1.4.0.zip",
+  "size": 3940352,
+  "checksum": "sha256-043B08AF0A18E9062F8A515947926340BE2EF3A2610D0BE25DB2609D8C6597DB",
   "minAppVersion": "0.0.1",
-  "releaseDate": "2025-10-14",
+  "releaseDate": "2025-11-17",
   "changelog": {
-    "en": "Added dynamic monthly rarity system with seasonal bird status",
-    "ro": "Adăugat un sistem dinamic lunar de raritate cu statusul sezonier al păsărilor"
+    "en": "Expanded to 21 bird species with complete Danube Delta monthly rarity data",
+    "ro": "Extins la 21 de specii de păsări cu date complete de raritate lunară din Delta Dunării"
   },
   "content": {
-    "birds": 5,
-    "images": 20,
+    "birds": 21,
+    "images": 52,
     "languages": ["en", "ro"],
-    "totalSize": "~2.0 MB"
+    "totalSize": "~3.8 MB"
   },
   "attribution": {
     "source": "English Wikipedia + Romanian Wikipedia + Wikimedia Commons",
